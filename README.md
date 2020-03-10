@@ -17,3 +17,11 @@ The goal of the project was to classify the patients as 'liver_patient' or 'heal
 ### Performance Indicators: 
 1. ROC curve
 2. Confusion Matrix
+
+
+### To improve the accuracy of the model, we came up with following recommendations:
+1. Have more data points
+2. Add more feature points 
+3. Experiement with other advanced classifiers
+
+
